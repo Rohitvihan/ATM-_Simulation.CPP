@@ -3,7 +3,7 @@
 --------------------------
 A simple command-line ATM simulation project written in C++ using Object-Oriented Programming concepts like classes, access specifiers, and inheritance.
 
----
+
 
 ## 📌 Features
 
@@ -13,7 +13,7 @@ A simple command-line ATM simulation project written in C++ using Object-Oriente
 - 📱 Update mobile number  
 - 👤 View user account details  
 
----
+
 
 ## 🛠️ Tech Stack
 
